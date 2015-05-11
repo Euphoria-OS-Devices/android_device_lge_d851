@@ -1,7 +1,7 @@
 [
   {
     "remote":       "github",
-    "repository":   "Euphoria-OS-Legacy/android_device_lge_g3-common",
+    "repository":   "Euphoria-OS-Devices/android_device_lge_g3-common",
     "target_path":  "device/lge/g3-common",
     "revision":     "lollipop-5.1"
   }
